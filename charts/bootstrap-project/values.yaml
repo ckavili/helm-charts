@@ -1,6 +1,6 @@
-ci_cd_namespace: &ci_cd "labs-ci-cd"
-dev_namespace: &dev "labs-dev"
-test_namespace: &test "labs-test"
+ci_cd_namespace: &ci_cd "cka-ci-cd"
+dev_namespace: &dev "cka-dev"
+test_namespace: &test "cka-test"
 namespaces:
 - name: *ci_cd
   operatorgroup: false
