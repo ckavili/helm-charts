@@ -5,6 +5,7 @@ appName: &name sonarqube
 # account:
 #   username: admin
 #   password: admin123
+#   currentUsername: admin
 #   currentAdminPassword: admin
 
 # support an existing secret for admin credentials
